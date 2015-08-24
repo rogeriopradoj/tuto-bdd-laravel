@@ -1,0 +1,6 @@
+suites:
+    main:
+        namespace: bddsetup
+        psr4_prefix: bddsetup
+        src_path: app
+        spec_path: tests
